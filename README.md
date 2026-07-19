@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Test commit
+
+2026-07-17: testing `/commit-push-pr` slash command end-to-end.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
