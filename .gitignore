@@ -47,3 +47,12 @@ CMakeCache.txt
 CMakeFiles/
 cmake-build-*/
 *.cmake
+
+# Personal dev scripts (kept locally, never committed)
+CLAUDE.md
+run_web.bat
+start_app.bat
+start_server.vbs
+serve_clean.py
+serve_coep.py
+serve_test.py
