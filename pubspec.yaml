@@ -1,5 +1,5 @@
 name: daily_life_manager
-description: 每日任务与生活管理系统
+description: "每日任务与生活管理系统 | Flutter跨端 + sqflite + Supabase 同步 | Provider 状态管理"
 publish_to: 'none'
 version: 1.0.0+1
 
